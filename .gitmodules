@@ -1,0 +1,3 @@
+[submodule "sites/all/modules/custom/cipher"]
+	path = sites/all/modules/custom/cipher
+	url = https://github.com/abdcon02/cipiher_module_drupal.git
